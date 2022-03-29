@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Hi, I'm Mihretab",
+    "description": "I am an upcoming software developer with strong communication, interpersonal, organizational, time management, analytical and solution-oriented skills. I use JS' react, and bootstrap framework to develop the web frontend. Also MERN stack for backend and functional web apps.",
+    "image": "mg_profile.jpg",
+    "bio": "I'm Mihretab, trying to become a fullstack developer. I am comfortable with JavaScript and it's frameworks & libraries like NodeJS, React and Express. I've a strong background in Artificial Intelligence, Mobile app development, Web App development, embedded systems and Networking",
+    "contactmessage": "You can contact me here.",
+    "email": "mihretabgirma21@gmail.com",
+    "phone": "+251963129098",
+    "github": "https://github.com/Almesty21",
+    "address": {
+      "street": "Kotebe",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa"
+    },
+    "website": "http://www.mihretabgirma.com",
+    "resumedownload": "https://www.mediafire.com/file/3322sfb70m3kfto/MgDoc.pdf/file",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "#",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Almesty21",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my skills as my developer career started.",
+    "education": [
+      {
+        "school": "University",
+        "degree": "Bachelor in Electrical & Computer Engineering",
+        "graduated": "2013 E.C",
+        "description": "I've got my Bachelor degree in ECE from Debre Birhan University in 2013 E.C."
+      }
+    ],
+    "work": [
+      {
+        "company": "Final year project",
+        "title": "Backend Developer",
+        "description": "Criminal Record Management System Using Fingerprint Tool used: PHP stack, html, JavaScript, CSS, Bootstrap to develop."
+      },
+      {
+        "company": "ECE stream",
+        "title": "Participation",
+        "description": "Active participation in Electrical and Computer Engineering computer stream."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "92%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "92%"
+      },
+      {
+        "name": "CSS/Bootstrap",
+        "level": "94%"
+      },
+      {
+        "name": "PHP",
+        "level": "85%"
+      },
+      {
+        "name": "Version Control",
+        "level": "84%"
+      },
+      {
+        "name": "Mobile dev't",
+        "level": "88%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Simple ReactJS Portfolio",
+        "category": "Portfolio",
+        "image": "04.png",
+        "url": "https://github.com/Almesty21/my-portfolio-react"
+      },
+      {
+        "title": "Simple MERN Ecommerce",
+        "category": "Ecommerce",
+        "image": "01.png",
+        "url": "https://github.com/Almesty21/simple-mern-ecommerce"
+      },
+      {
+        "title": "NodeJS simple ChatApp",
+        "category": "ChatApp",
+        "image": "02.png",
+        "url": "#"
+      },
+      {
+        "title": "PHP Criminal Record System",
+        "category": "Web App",
+        "image": "03.jpg",
+        "url": "#"
+      }
+    ]
+  }
+}
